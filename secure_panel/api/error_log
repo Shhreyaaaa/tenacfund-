@@ -1,0 +1,21 @@
+[17-Apr-2023 16:53:43 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/tenac4dh/tenacioushub.in/cms/api/api.php on line 12
+[17-Apr-2023 16:54:37 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "message" on null in /home2/tenac4dh/tenacioushub.in/cms/api/api.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/tenac4dh/tenacioushub.in/cms/api/api.php on line 6
+[17-Apr-2023 16:57:28 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "message" on null in /home2/tenac4dh/tenacioushub.in/cms/api/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/tenac4dh/tenacioushub.in/cms/api/api.php on line 7
+[17-Apr-2023 16:57:31 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "message" on null in /home2/tenac4dh/tenacioushub.in/cms/api/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/tenac4dh/tenacioushub.in/cms/api/api.php on line 7
+[17-Apr-2023 16:58:19 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "message" on null in /home2/tenac4dh/tenacioushub.in/cms/api/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/tenac4dh/tenacioushub.in/cms/api/api.php on line 7
+[18-Apr-2023 04:28:37 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "message" on null in /home2/tenac4dh/tenacioushub.in/cms/api/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/tenac4dh/tenacioushub.in/cms/api/api.php on line 7
